@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "../../../Downloads/01-starting-setup 3/public"
+		},
+		{
+			"name": "src",
+			"path": "../../../Downloads/01-starting-setup 3/src"
+		},
+		{
+			"name": "solo-project",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
